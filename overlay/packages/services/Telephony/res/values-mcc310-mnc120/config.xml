@@ -19,8 +19,8 @@
 <resources>
     <!-- Flag indicating if the phone is a world phone -->
     <bool name="world_phone">true</bool>
-    <!-- Sprint Message Wait Indicator Quirk -->
-    <bool name="sprint_mwi_quirk">true</bool>
+    <!-- Sprint Message Wait Indicator Quirk 
+    <bool name="sprint_mwi_quirk">true</bool> -->
     <!-- Configure certain GsmUmtsOptions to be available or not. The
          default values are in Phone/res/values/config.xml and maybe overridden
          in operator specific resource directories or device specific overlays. -->
